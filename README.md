@@ -1,2 +1,2 @@
-Sustainable Supply chain performance dashboard using Power BI
+# Sustainable Supply chain performance dashboard using Power BI
 This Power BI dashboard analyzes sustainable supply chain performance using key indicators such as energy consumption, emissions, cost efficiency, and supplier ratings. It draws insights from real consumption and performance datasets to track environmental and operational metrics across the supply chain. The dashboard enables stakeholders to monitor trends, evaluate supplier sustainability, and make data-driven decisions aligned with ESG goals. Built for transparency and continuous improvement in supply chain practices.
